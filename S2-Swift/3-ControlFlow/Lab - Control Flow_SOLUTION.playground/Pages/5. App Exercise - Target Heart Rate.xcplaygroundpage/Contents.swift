@@ -13,7 +13,7 @@ let currentHR = 147
 
 let isInTarget = currentHR > targetLowerBound && currentHR < targetUpperBound
 let isBelowTarget = currentHR < targetLowerBound
-let isAboveTarget = currentHR < targetUpperBound
+let isAboveTarget = currentHR > targetUpperBound
 
 if isBelowTarget {
     print("You're doing great, but try to push it a bit!")
