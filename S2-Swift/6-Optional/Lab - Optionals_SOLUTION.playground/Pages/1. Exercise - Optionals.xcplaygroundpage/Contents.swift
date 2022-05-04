@@ -14,12 +14,6 @@ let userAge: Int? = Int(userInputAge)
  */
 print(userAge)
 // userAge is nil because "34e" cannot be properly converted into an integer because of the character "e"
-/*:
- Now go back and fix the typo on the value of `userInputAge`. Is there anything about the value printed that seems off?
-
- Print `userAge` again, but this time unwrap `userAge` using the force unwrap operator.
- */
-print(userAge!)
 
 /*:
  Now use optional binding to unwrap `userAge`. If `userAge` has a value, print it to the console.
@@ -27,4 +21,4 @@ print(userAge!)
 if let age = userAge {
     print(age)
 }
-//: page 1 of 6  |  [Next: App Exercise - Finding a Heart Rate](@next)
+//: page 1 of 2  |  [Next: App Exercise - Finding a Heart Rate](@next)

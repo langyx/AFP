@@ -15,13 +15,6 @@
 
 
 /*:
- Maintenant, revenez en arrière et corrigez la faute de frappe sur la valeur de "userInputAge". Y a-t-il quelque chose dans la valeur imprimée qui semble erroné ?
- 
- Affichez "userAge" à nouveau, mais cette fois déballez "userAge" en utilisant l'opérateur de déballage forcé.
- */
-
-
-/*:
  Utilisez maintenant optionnal Binding pour déballer "userAge". Si "userAge" a une valeur, affichez-la sur la console.
  */
 
