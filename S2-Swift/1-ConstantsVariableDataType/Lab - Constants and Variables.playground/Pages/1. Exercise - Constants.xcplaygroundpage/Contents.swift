@@ -4,7 +4,6 @@
  Déclarez une constante appelée `friends` pour représenter le nombre d'amis que vous avez sur les médias sociaux. Donnez-lui une valeur comprise entre 50 et 1000. Imprimez la valeur de votre constante en utilisant son nom.
  */
 
-
 /*:
 Supposons maintenant que vous supprimez des amis qui ne sont pas actifs sur les réseaux sociaux. Mettez à jour votre constante `friends` avec un nombre inférieur à celui qu'elle est actuellement. (Cette partie amène à une erreur, ne paniquer pas)
  */
