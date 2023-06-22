@@ -18,7 +18,7 @@ print(userAge)
 /*:
  Now use optional binding to unwrap `userAge`. If `userAge` has a value, print it to the console.
  */
-if let age = userAge {
-    print(age)
+if let userAge {
+    print(userAge)
 }
 //: page 1 of 2  |  [Next: App Exercise - Finding a Heart Rate](@next)
