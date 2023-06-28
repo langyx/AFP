@@ -23,8 +23,8 @@ print(somePlace.longitude)
 /*:
  Now imagine you are making a social app for sharing your favorite books. Create a `Book` struct with four variable properties: `title`, `author`, `pages`, and `price`. The default values for both `title` and `author` should be an empty string. `pages` should default to 0, and `price` should default to 0.0.
  */
+var title = ""
 struct Book {
-    var title = ""
     var author = ""
     var pages = 0
     var price = 0.0
