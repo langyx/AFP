@@ -6,7 +6,7 @@
 
 
 /*:
-Votre ami Sara est la premiere à s'inscrire à l'événement. Ajoutez son nom à `registrationList` en utilisant la méthode `append(_ :)`. Imprimer le contenu de la collection.
+Votre ami Sara est la première à s'inscrire à l'événement. Ajoutez son nom à `registrationList` en utilisant la méthode `append(_ :)`. Imprimer le contenu de la collection.
  */
 
 

@@ -8,7 +8,7 @@ var dollars = 0
 
 
 /*:
- `dollars` a été mis à jour ci-dessous pour avoir une valeur de 10. Écrivez une déclaration `if-else` qui indique "Désolé, gamin. Tu es fauché!" si `dollars` a une valeur de 0, mais affiche "Vous avez de l'argent de poche!" autrement. Observez ce qui est imprimé sur la console.
+ `dollars` a été mis à jour ci-dessous pour avoir une valeur de 10. Écrivez une déclaration `if-else` qui indique "Désolé, gamin. Tu es fauché!" si `dollars` a une valeur de 0, mais affiche "Vous avez de l'argent de poche!" pour les autres valeurs. Observez ce qui est imprimé sur la console.
  */
 
 dollars = 10

@@ -11,4 +11,4 @@ Créez un dictionnaire [String : String] où les clés sont les noms des pays e
  */
 
 
-//: page 1 of 6  |  [Next: App Exercise - Movements](@next)
+//: page 1 of 4  |  [Next: App Exercise - Movements](@next)

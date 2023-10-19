@@ -12,4 +12,4 @@
 import Foundation
 
 
-//: page 1 of 6  |  [Next: App Exercise - A Functioning App](@next)
+//: page 1 of 5  |  [Next: App Exercise - A Functioning App](@next)

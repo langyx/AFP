@@ -8,7 +8,7 @@
  
 
  
- Créez un dictionnaire `paces` de type [String: Double] et affectez-lui les touches "Easy", "Medium" et "Fast" correspondant aux valeurs de 10.0, 8.0 et 6.0. Ces chiffres correspondent au rythme en km par minutes. Imprimez le dictionnaire.
+ Créez un dictionnaire `paces` de type [String: Double] et affectez-lui les touches "Easy", "Medium" et "Fast" correspondant aux valeurs de 10.0, 8.0 et 6.0. Ces chiffres correspondent au rythme en km par minute. Imprimez le dictionnaire.
  */
 
 
@@ -28,18 +28,7 @@
 
 
 /*:
- Lorsqu'un utilisateur choisit une rythme, vous souhaitez que l'application imprime une déclaration indiquant qu'elle le maintiendra sur le rythme choisi. Imaginez qu'un utilisateur choisisse "Moyen". En accédant à la valeur du dictionnaire, imprimez une déclaration disant: "D'accord! Je vous en tiendrai à <INSERER LA VALEUR DE PAS ICI> minute d'allure."
+ Lorsqu'un utilisateur choisit une rythme, vous souhaitez que l'application imprime une déclaration indiquant qu'elle le maintiendra sur le rythme choisi. Imaginez qu'un utilisateur choisisse "Moyen". En accédant à la valeur du dictionnaire, imprimez une déclaration disant: "D'accord! Je vous maintiendrais à un rythme de <Insérez la valeur de rythme ici> km/minute d'allure."
  */
 
-
-/*:
- 
- _Copyright © 2017 Apple Inc._
- 
- _Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:_
- 
- _The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software._
- 
- _THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE._
- */
 //: [Previous](@previous)  |  page 4 of 4

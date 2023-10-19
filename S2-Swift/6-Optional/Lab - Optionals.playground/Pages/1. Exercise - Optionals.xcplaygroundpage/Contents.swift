@@ -1,7 +1,7 @@
 /*:
  ## Exercise - Optionals
  
-  >Tout au long des exercices de ce playground, vous imprimerez des valeurs facultatives. Le compilateur Swift affichera un avertissement : "Expression implicitement forcée de `Int ?` à Any". Pour les besoins de ces exercices, vous pouvez ignorer cet avertissement.
+  >Tout au long des exercices de ce playground, vous imprimerez des valeurs facultatives. Le compilateur Swift affichera un avertissement : "Expression implicitly coerced from 'Int?' to 'Any'". Pour les besoins de ces exercices, vous pouvez ignorer cet avertissement.
 
  Imaginez que vous ayez une application qui demande à l'utilisateur d'entrer son âge à l'aide du clavier. Lorsque votre application permet à un utilisateur de saisir du texte, ce qui est capturé pour vous est donné sous la forme d'un "String". Cependant, vous souhaitez stocker ces informations en tant que "Int". Est-il possible que l'utilisateur fasse une erreur et que l'entrée ne corresponde pas au type que vous souhaitez stocker ?
  

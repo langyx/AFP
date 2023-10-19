@@ -9,7 +9,7 @@
 
 
 /*:
-Lorsque vous allez déclaré une constante pour le nombre pas à atteindre et une variable pour le nombre pas effectué, vous allez probablement attribué à chacun une valeur en milliers. Cela peut être difficile à lire. Déclarez donc cette constante et cette variable et lorsque vous leur assignez une valeur en milliers, formatez le nombre afin qu'il soit plus lisible.
+Lorsque vous allez déclaré une constante pour le nombre pas à atteindre et une variable pour le nombre de pas effectué, vous allez probablement attribuer à chacun une valeur en milliers. Cela peut être difficile à lire. Déclarez donc cette constante et cette variable et lorsque vous leur assignez une valeur en milliers, formatez le nombre afin qu'il soit plus lisible.
  */
 
 

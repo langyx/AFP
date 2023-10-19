@@ -3,9 +3,7 @@
     <pages>
         <page name='1. Exercise - For-In Loops'/>
         <page name='2. App Exercise - Movements'/>
-        <page name='3. Exercise - While Loops'/>
-        <page name='4. App Exercise - Running Cadence'/>
-        <page name='5. Exercise - Control Transfer Statements'/>
-        <page name='6. App Exercise - Finding Movements'/>
+        <page name='3. Exercise - Control Transfer Statements'/>
+        <page name='4. App Exercise - Finding Movements'/>
     </pages>
 </playground>

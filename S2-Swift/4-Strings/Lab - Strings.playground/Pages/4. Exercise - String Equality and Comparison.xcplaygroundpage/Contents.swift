@@ -1,43 +1,28 @@
 /*:
  ## Exercise - String Equality and Comparison
- ### ! Attention si vous n'avez pas vue les conditions, ne faites pas les exo sur les IF / ELSE !
- Créer 2 constantes, `nameInCaps` et `name`. Assigner votre prénom à `nameInCaps` en utilisant des lettres capitales. Faites en de même pour `name` en utilisant des minuscules. Écrire une condition if-else qui vérifie que `nameInCaps` and `name` sont les même. Si c'est le cas, imprimer "The two strings are equal", sinon imprimer "The two strings are not equal."
+ 
+ Créer 2 constantes, `nameInCaps` et `name`. Assignez votre prénom à `nameInCaps` en utilisant des lettres capitales. Faites en de même pour `name` en utilisant des minuscules. Écrivez une condition if-else qui vérifie que `nameInCaps` and `name` sont les même. Si c'est le cas, imprimez "The two strings are equal", sinon imprimez "The two strings are not equal."
  */
-let nameInCaps = "YANNIS"
-let name = "yannis"
 
-if name == nameInCaps {
-    print("égal")
-}else{
-    print("pas égal")
-}
 /*:
  
- Écrire une autre condition if-else qui regarde si `nameInCaps` et `name` sont les même, par contre cette fois ci vous allez utiliser la méthode `lowercased()` sur chacune des constantes comparées. Si les deux constantes sont égales, imprimer la phrase si dessous en vous aidant d'interpolation:
+ Écrivez une autre condition if-else qui regarde si `nameInCaps` et `name` sont les mêmes, par contre cette fois ci vous allez utiliser la méthode `lowercased()` sur chacune des constantes comparées. Si les deux constantes sont égales, imprimez la phrase ci dessous en vous aidant d'interpolation:
  
- - "<INSERT LOWERCASED VERSION OF `nameInCaps` HERE> and <INSERT LOWERCASED VERSION OF `name` HERE> are the same."
+ - "<Insérez la version lowercased de`nameInCaps` ici> et <Insérez la version lowercased de`name` ici> sont identiques."
  
- sinon et toujours en vous aidant d'interpolation, imprimer la phrase ci dessous:
+ sinon et toujours en vous aidant d'interpolation, imprimez la phrase ci dessous:
  
- - "<INSERT LOWERCASED VERSION OF `nameInCaps` HERE> and <INSERT LOWERCASED VERSION OF `name` HERE> are not the same."
+ - "<Insérez la version lowercased de`nameInCaps` ici> et <Insérez la version lowercased de`name` ici> ne sont pas les mêmes."
  */
-let lowercasedName = name.lowercased()
-print(lowercasedName)
 
-if name.lowercased() == nameInCaps.lowercased() {
-    print("\(name.lowercased()) and \(nameInCaps.lowercased()) are the same.")
-}else{
-    print("\(name.lowercased()) and \(nameInCaps.lowercased()) are not the same.")
-}
+
 
 /*:
- Imaginer que vous êtes en train de regarder une liste de prénoms, vous recherchez si certains prénom termine avec le suffixe "Jr.". Écrivez une condition if qui regarde si   `junior` est bien suivi du suffixe "Jr.". Si c'est le cas, imprimer "We found a second generation name!".
+ Imaginez que vous êtes en train de regarder une liste de prénoms, vous recherchez si certains prénoms se terminent avec le suffixe "Jr.". Écrivez une condition if qui regarde si `junior` est bien suivi du suffixe "Jr.". Si c'est le cas, imprimez "We found a second generation name!".
  */
 let junior = "Cal Ripken Jr."
 
-if junior.hasSuffix("Jr.") {
-    print("trouvé")
-}
+
 
 /*:
  Supposons que vous êtes en train de rechercher un document contenant le fameux soliloque écrit par Shakespeare sur votre ordinateur. Vous écrivez une simple application qui regarde à travers chacun des documents si ils possèdent la phrase "to be, or not to be". Vous décidez d'utiliser la méthode `contains(_:)`. Écrivez une condition if qui regarde si `textToSearchThrough` contient `textToSearchFor`. Si c'est le cas, imprimer "I found it!". Faites en sorte que votre condition soit sensible à la case.
@@ -47,13 +32,11 @@ import Foundation
 let textToSearchThrough = "To be, or not to be--that is the question"
 let textToSearchFor = "to be, or not to be"
 
-if textToSearchThrough.lowercased().contains(textToSearchFor.lowercased()) {
-    print("trouvé")
-}
+
 
 /*:
- Imprimer dans la console le nombre de characters dans votre prénom en utilisant la propriété `count` sur `name`.
+ Imprimez dans la console le nombre de charactères dans votre prénom en utilisant la propriété `count` sur `name`.
  */
-print(name.count)
+
 
 //: [Previous](@previous)  |  page 4 of 5  |  [Next: App Exercise - Password Entry and User Search](@next)

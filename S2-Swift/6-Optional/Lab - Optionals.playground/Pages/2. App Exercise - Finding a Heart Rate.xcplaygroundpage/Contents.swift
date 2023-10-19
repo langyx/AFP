@@ -15,7 +15,7 @@
 
 
 /*:
- Comme vous l'avez fait dans d'autres exercices d'application, créez une variable "hrAverage" de type "Int" et utilisez les valeurs stockées ci-dessous et la valeur de "heartRate" pour calculer une fréquence cardiaque moyenne.
+ Comme vous l'avez fait dans d'autres exercices d'applications, créez une variable "hrAverage" de type "Int" et utilisez les valeurs stockées ci-dessous et la valeur de "heartRate" pour calculer une fréquence cardiaque moyenne.
  */
 let oldHR1 = 80
 let oldHR2 = 76

@@ -14,4 +14,4 @@ Supposons maintenant que votre application utilise un dictionnaire pour garder u
 var movementHeartRates: [String: Int] = ["Walking": 85, "Running": 120, "Swimming": 130, "Cycling": 128, "Skiing": 114, "Climbing": 129]
 
 
-//: [Previous](@previous)  |  page 2 of 6  |  [Next: Exercise - While Loops](@next)
+//: [Previous](@previous)  |  page 2 of 4  |  [Next: Exercise - While Loops](@next)

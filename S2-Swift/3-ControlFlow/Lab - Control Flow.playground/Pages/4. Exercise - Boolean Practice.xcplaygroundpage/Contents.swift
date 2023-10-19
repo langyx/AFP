@@ -18,7 +18,7 @@ let hasVegan = true
 
 
 /*:
- Vous essayez de vous décider à sortir marcher ou non en fonction de la météo. Si il ne pleut pas ou si il fait soleil et au moins 82°... Écrivez une déclaration `if` qui indiquera "Je vais me promener!" si le temps y est propice et "Je reste chez moi" si il fait moche.
+ Vous essayez de vous décider à sortir marcher ou non en fonction de la météo. Si il ne pleut pas ou si il fait soleil et au moins 82°... Écrivez une déclaration `if` qui indiquera "Je vais me promener!" si le temps y est propice et "Je reste chez moi" s'il fait pas beau.
  */
 let temp = 81
 let isRaining = true

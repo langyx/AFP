@@ -15,8 +15,25 @@ var steps = 4900
 
 
 /*:
-De même, si vous souhaitez fournir régulièrement des mises à jour de progression à votre utilisateur, vous pouvez intégrer vos instructions contrôlant les progrès dans une fonction. Écrivez une fonction appelée `progressUpdate` après la déclaration de `goal` ci-dessous. La fonction devrait afficher "Vous partez du bon pied". si `steps` est inférieur à 10% de `goal`, "vous êtes presque à mi-chemin!" si `steps` est inférieur à la moitié de `goal`, "Vous en êtes à mi-chemin!" si `steps` est inférieur à 90% de `goal`, "Vous y êtes presque!" si `steps` est inférieur à `goal`, et que "vous battez votre objectif!" autrement. Appelez la fonction et observez l'impression. N'oubliez pas que vous pouvez convertir des nombres en utilisant l'initialiseur Int ou Double approprié.
+De même, si vous souhaitez fournir régulièrement des mises à jour de progression à votre utilisateur, vous pouvez intégrer vos instructions contrôlant les progrès dans une fonction.
+ 
+
+ Écrivez une fonction appelée `progressUpdate` après la déclaration de `goal` ci-dessous.
+ 
+ La fonction devrait afficher
+ 
+ "Vous partez du bon pied" si `steps` est inférieur à 10% de `goal`,
+ 
+"vous êtes presque à mi-chemin!" si `steps` est inférieur à la moitié de `goal`,
+ 
+"Vous en êtes à mi-chemin!" si `steps` est inférieur à 90% de `goal`,
+ 
+"Vous y êtes presque!" si `steps` est inférieur à `goal`,
+ 
+et que "vous battez votre objectif!" autrement.
+ 
+ Appelez la fonction et observez l'impression. N'oubliez pas que vous pouvez convertir des nombres en utilisant l'initialiseur Int ou Double approprié.
  */
 var goal = 10000
 
-//: [Previous](@previous)  |  page 2 of 6  |  [Next: Exercise - Parameters and Argument Labels](@next)
+//: [Previous](@previous)  |  page 2 of 5  |  [Next: Exercise - Parameters and Argument Labels](@next)

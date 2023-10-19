@@ -6,7 +6,7 @@
 
 
 /*:
-Déclarez une variable appelée `trueOrFalse` et donnez-lui une valeur booléenne. Essayez de l'assigner à `firstDecimal` comme ici: `firstDecimal = trueOrFalse`. Est-ce-que ce code compile-t-il? Pouquoi ?
+Déclarez une variable appelée `trueOrFalse` et donnez-lui une valeur booléenne. Essayez de l'assigner à `firstDecimal` comme ici: `firstDecimal = trueOrFalse`. Est-ce-que ce code compile? Pouquoi ?
  */
 
 
