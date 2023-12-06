@@ -9,6 +9,7 @@
 */
 
 
+
 /*:
  Revenez en arrière et changez le type de "userAge" en "Int?", et imprimez la valeur de "userAge". Pourquoi la valeur de "userAge" est-elle "nil" ? Fournissez votre réponse dans un commentaire ou une déclaration imprimée ci-dessous.
  */
